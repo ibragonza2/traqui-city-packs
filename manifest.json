@@ -1,0 +1,1734 @@
+{
+  "schema": 1,
+  "tag": "cities-v1",
+  "countries": [
+    {
+      "id": "124",
+      "name": "Canada",
+      "attribution": "Adapted from Statistics Canada, 2021 Census Boundary Files and Table 98-10-0004-01. This does not constitute an endorsement by Statistics Canada of this product.",
+      "licenseUrl": "https://www.statcan.gc.ca/en/terms-conditions/open-licence",
+      "packs": [
+        {
+          "name": "Newfoundland and Labrador",
+          "code": "10",
+          "file": "124-10-72ed780f28439996012f031a6802e665d0e7ce90ddd117ef6eb58f95b59ffbe6.sqlite.pack",
+          "sha256": "72ed780f28439996012f031a6802e665d0e7ce90ddd117ef6eb58f95b59ffbe6",
+          "packedBytes": 1890168,
+          "bytes": 5050368
+        },
+        {
+          "name": "Prince Edward Island",
+          "code": "11",
+          "file": "124-11-a1c81cfe23999fc323b3b2a472bc5dc064f20432ea3f99d70aa6864096986d89.sqlite.pack",
+          "sha256": "a1c81cfe23999fc323b3b2a472bc5dc064f20432ea3f99d70aa6864096986d89",
+          "packedBytes": 139898,
+          "bytes": 430080
+        },
+        {
+          "name": "Nova Scotia",
+          "code": "12",
+          "file": "124-12-33d09e334feee520553babf047d2c23456e691f3e88b2a11c3649cbb52fe5f6b.sqlite.pack",
+          "sha256": "33d09e334feee520553babf047d2c23456e691f3e88b2a11c3649cbb52fe5f6b",
+          "packedBytes": 293187,
+          "bytes": 864256
+        },
+        {
+          "name": "New Brunswick",
+          "code": "13",
+          "file": "124-13-b92e1df032b54016ee30124400db363ef28aeb0d9a83f27013353b0c21677d5e.sqlite.pack",
+          "sha256": "b92e1df032b54016ee30124400db363ef28aeb0d9a83f27013353b0c21677d5e",
+          "packedBytes": 535254,
+          "bytes": 1445888
+        },
+        {
+          "name": "Quebec",
+          "code": "24",
+          "file": "124-24-874629299117b56763463da2c5ab1a99c454a12250067b0bd1f1d6f50c02c645.sqlite.pack",
+          "sha256": "874629299117b56763463da2c5ab1a99c454a12250067b0bd1f1d6f50c02c645",
+          "packedBytes": 6197663,
+          "bytes": 17805312
+        },
+        {
+          "name": "Ontario",
+          "code": "35",
+          "file": "124-35-13712534dd5c8fd2f4f3362b189fd57a142646369b5201678108060d086c8459.sqlite.pack",
+          "sha256": "13712534dd5c8fd2f4f3362b189fd57a142646369b5201678108060d086c8459",
+          "packedBytes": 6957586,
+          "bytes": 18907136
+        },
+        {
+          "name": "Manitoba",
+          "code": "46",
+          "file": "124-46-0911a1bfe3dd6c64363357fdf4079aa64008b09c81c8dae9c855d6aa69398949.sqlite.pack",
+          "sha256": "0911a1bfe3dd6c64363357fdf4079aa64008b09c81c8dae9c855d6aa69398949",
+          "packedBytes": 2239319,
+          "bytes": 6094848
+        },
+        {
+          "name": "Saskatchewan",
+          "code": "47",
+          "file": "124-47-e80cc50f78620dd78d7cdfc777516dc6786b9d2678acc3ef6320957ee7c32c6e.sqlite.pack",
+          "sha256": "e80cc50f78620dd78d7cdfc777516dc6786b9d2678acc3ef6320957ee7c32c6e",
+          "packedBytes": 3722730,
+          "bytes": 10616832
+        },
+        {
+          "name": "Alberta",
+          "code": "48",
+          "file": "124-48-3673e1d5a8567d99e7fe8de78790ef57c381de5be4a25cb40b9889e4c4a4b13e.sqlite.pack",
+          "sha256": "3673e1d5a8567d99e7fe8de78790ef57c381de5be4a25cb40b9889e4c4a4b13e",
+          "packedBytes": 4046440,
+          "bytes": 11014144
+        },
+        {
+          "name": "British Columbia",
+          "code": "59",
+          "file": "124-59-35b8bb58c19a7e10b659694d956d0c65cc3a92c196319416626ff7b6be3d1d54.sqlite.pack",
+          "sha256": "35b8bb58c19a7e10b659694d956d0c65cc3a92c196319416626ff7b6be3d1d54",
+          "packedBytes": 1020269,
+          "bytes": 2748416
+        },
+        {
+          "name": "Yukon",
+          "code": "60",
+          "file": "124-60-a003ee9bcb002f074dca14c03227a88b5c2a8fa69aef9773742a08f128e9b95a.sqlite.pack",
+          "sha256": "a003ee9bcb002f074dca14c03227a88b5c2a8fa69aef9773742a08f128e9b95a",
+          "packedBytes": 20678,
+          "bytes": 110592
+        },
+        {
+          "name": "Northwest Territories",
+          "code": "61",
+          "file": "124-61-e8f73011b782ca050ef05279829e08bf2e2f7b7b5d800777983a80aee4e4a9ed.sqlite.pack",
+          "sha256": "e8f73011b782ca050ef05279829e08bf2e2f7b7b5d800777983a80aee4e4a9ed",
+          "packedBytes": 31110,
+          "bytes": 131072
+        },
+        {
+          "name": "Nunavut",
+          "code": "62",
+          "file": "124-62-2ab12b8880490ce848aefc12eb36266cd7f3f743b82df0fb2d5857d5618b3a52.sqlite.pack",
+          "sha256": "2ab12b8880490ce848aefc12eb36266cd7f3f743b82df0fb2d5857d5618b3a52",
+          "packedBytes": 5722,
+          "bytes": 69632
+        }
+      ]
+    },
+    {
+      "id": "404",
+      "name": "Kenya",
+      "attribution": "Macharia, Mumo and Okiro, Kenya Urban Centres 2019, CC BY 4.0; Nairobi and Mombasa use labeled 2020 county-wide urban proxies from geoBoundaries (public domain). The KNBS 2019 list was used only for identity review; its population data are not redistributed.",
+      "licenseUrl": "https://figshare.com/articles/dataset/Kenya_Urban_Centres_2019/13308773",
+      "packs": [
+        {
+          "name": "Baringo",
+          "code": "01",
+          "file": "404-01-cb88285b5b326f3acc6bf6523221c902eb74098648389bd1fce304487e1aee21.sqlite.pack",
+          "sha256": "cb88285b5b326f3acc6bf6523221c902eb74098648389bd1fce304487e1aee21",
+          "packedBytes": 7414,
+          "bytes": 81920
+        },
+        {
+          "name": "Bomet",
+          "code": "02",
+          "file": "404-02-4fbe5845758ef33dc64b372af78b4ed32c59b5a29e8b97a77a399cb97148e2dc.sqlite.pack",
+          "sha256": "4fbe5845758ef33dc64b372af78b4ed32c59b5a29e8b97a77a399cb97148e2dc",
+          "packedBytes": 3874,
+          "bytes": 69632
+        },
+        {
+          "name": "Bungoma",
+          "code": "03",
+          "file": "404-03-313ac8aa930f592584868ec55d8f9b9cde754b9b32c0b06fe1cb6001d56f05d3.sqlite.pack",
+          "sha256": "313ac8aa930f592584868ec55d8f9b9cde754b9b32c0b06fe1cb6001d56f05d3",
+          "packedBytes": 7774,
+          "bytes": 81920
+        },
+        {
+          "name": "Busia",
+          "code": "04",
+          "file": "404-04-bc75f6a38a6f389ed381e3f3ac9c3be7aa74973973462e38c3768153b14904f3.sqlite.pack",
+          "sha256": "bc75f6a38a6f389ed381e3f3ac9c3be7aa74973973462e38c3768153b14904f3",
+          "packedBytes": 8491,
+          "bytes": 86016
+        },
+        {
+          "name": "Elgeyo-Marakwet",
+          "code": "05",
+          "file": "404-05-7f23e588c5e6e6eea1959211cc9a7f5d01316a314e2844a691cd4fd0c419d8ac.sqlite.pack",
+          "sha256": "7f23e588c5e6e6eea1959211cc9a7f5d01316a314e2844a691cd4fd0c419d8ac",
+          "packedBytes": 3908,
+          "bytes": 69632
+        },
+        {
+          "name": "Embu",
+          "code": "06",
+          "file": "404-06-4100985bd62464e2a433bfea9ef1dcd9111386566e064871ad4628a9861c9e84.sqlite.pack",
+          "sha256": "4100985bd62464e2a433bfea9ef1dcd9111386566e064871ad4628a9861c9e84",
+          "packedBytes": 3235,
+          "bytes": 69632
+        },
+        {
+          "name": "Garissa",
+          "code": "07",
+          "file": "404-07-d1f764168985fb68d6576e1ebe9efc1b8ae2f31e24c43e336889f2c6b1f40de6.sqlite.pack",
+          "sha256": "d1f764168985fb68d6576e1ebe9efc1b8ae2f31e24c43e336889f2c6b1f40de6",
+          "packedBytes": 3756,
+          "bytes": 69632
+        },
+        {
+          "name": "Homa Bay",
+          "code": "08",
+          "file": "404-08-f684506767d46c74d301ce6ad6a6b0f83250088fe7b88adcd7e2958b5876823f.sqlite.pack",
+          "sha256": "f684506767d46c74d301ce6ad6a6b0f83250088fe7b88adcd7e2958b5876823f",
+          "packedBytes": 8674,
+          "bytes": 81920
+        },
+        {
+          "name": "Isiolo",
+          "code": "09",
+          "file": "404-09-73f39255c1ecfd43dd267844bb2b50a694e6020155238606f514ff8863bede75.sqlite.pack",
+          "sha256": "73f39255c1ecfd43dd267844bb2b50a694e6020155238606f514ff8863bede75",
+          "packedBytes": 3976,
+          "bytes": 69632
+        },
+        {
+          "name": "Kajiado",
+          "code": "10",
+          "file": "404-10-9d6002f78fcba092338c28af21751d61dfa4f1f8d1611decdb0eb04485d3901a.sqlite.pack",
+          "sha256": "9d6002f78fcba092338c28af21751d61dfa4f1f8d1611decdb0eb04485d3901a",
+          "packedBytes": 9299,
+          "bytes": 81920
+        },
+        {
+          "name": "Kakamega",
+          "code": "11",
+          "file": "404-11-f2187bf164f0c414519cc5e8837ba88675e955779fc1a7cb92bc24438980f4bc.sqlite.pack",
+          "sha256": "f2187bf164f0c414519cc5e8837ba88675e955779fc1a7cb92bc24438980f4bc",
+          "packedBytes": 6892,
+          "bytes": 77824
+        },
+        {
+          "name": "Kericho",
+          "code": "12",
+          "file": "404-12-97682732883ae90e6c425ef5c9a061813d41db23adea84ed0b9671bef0203fea.sqlite.pack",
+          "sha256": "97682732883ae90e6c425ef5c9a061813d41db23adea84ed0b9671bef0203fea",
+          "packedBytes": 6254,
+          "bytes": 81920
+        },
+        {
+          "name": "Kiambu",
+          "code": "13",
+          "file": "404-13-e1d9e2d3ac97c7210011643f91abf89182461d6ed1d12361f0fa77af435c5968.sqlite.pack",
+          "sha256": "e1d9e2d3ac97c7210011643f91abf89182461d6ed1d12361f0fa77af435c5968",
+          "packedBytes": 10981,
+          "bytes": 86016
+        },
+        {
+          "name": "Kilifi",
+          "code": "14",
+          "file": "404-14-09c94ce3d5ba2190fd9e972ddcfec58adf38e9a25c015783e3e122a41ae95e7b.sqlite.pack",
+          "sha256": "09c94ce3d5ba2190fd9e972ddcfec58adf38e9a25c015783e3e122a41ae95e7b",
+          "packedBytes": 5154,
+          "bytes": 69632
+        },
+        {
+          "name": "Kirinyaga",
+          "code": "15",
+          "file": "404-15-0b3a4e98deeb1ce86c92e19f68ac30fe042b83a129a4d910eac8b5c054ab11bb.sqlite.pack",
+          "sha256": "0b3a4e98deeb1ce86c92e19f68ac30fe042b83a129a4d910eac8b5c054ab11bb",
+          "packedBytes": 6549,
+          "bytes": 77824
+        },
+        {
+          "name": "Kisii",
+          "code": "16",
+          "file": "404-16-fabf1a3f3ca00fcbbe1c1a5b92cf2d5d96e687b365a104a2ee56efecf770ffc1.sqlite.pack",
+          "sha256": "fabf1a3f3ca00fcbbe1c1a5b92cf2d5d96e687b365a104a2ee56efecf770ffc1",
+          "packedBytes": 6341,
+          "bytes": 77824
+        },
+        {
+          "name": "Kisumu",
+          "code": "17",
+          "file": "404-17-b7f2a07bdab7c3d36cbb98fc103ce99510d8bd0fcb3cfd5796b27408b012ca0d.sqlite.pack",
+          "sha256": "b7f2a07bdab7c3d36cbb98fc103ce99510d8bd0fcb3cfd5796b27408b012ca0d",
+          "packedBytes": 7631,
+          "bytes": 81920
+        },
+        {
+          "name": "Kitui",
+          "code": "18",
+          "file": "404-18-8f9a18c6bcd093981f7b4d847afc1e127d5545f0393b983ff6e778a388974021.sqlite.pack",
+          "sha256": "8f9a18c6bcd093981f7b4d847afc1e127d5545f0393b983ff6e778a388974021",
+          "packedBytes": 3695,
+          "bytes": 69632
+        },
+        {
+          "name": "Kwale",
+          "code": "19",
+          "file": "404-19-c5eb8314538b933f1359fa337d10575d2ff859b31e63a381080f9fed7eff41db.sqlite.pack",
+          "sha256": "c5eb8314538b933f1359fa337d10575d2ff859b31e63a381080f9fed7eff41db",
+          "packedBytes": 4296,
+          "bytes": 69632
+        },
+        {
+          "name": "Laikipia",
+          "code": "20",
+          "file": "404-20-bd7a415805a889c3f538321766bbf035d6dfc7a5ad9f2b820222b03b129e0801.sqlite.pack",
+          "sha256": "bd7a415805a889c3f538321766bbf035d6dfc7a5ad9f2b820222b03b129e0801",
+          "packedBytes": 4513,
+          "bytes": 69632
+        },
+        {
+          "name": "Lamu",
+          "code": "21",
+          "file": "404-21-bd72cd8dbb8577e1cf9c58bcaf8537c52d0f9b9d85a460fa89fe53e1213c6989.sqlite.pack",
+          "sha256": "bd72cd8dbb8577e1cf9c58bcaf8537c52d0f9b9d85a460fa89fe53e1213c6989",
+          "packedBytes": 3802,
+          "bytes": 69632
+        },
+        {
+          "name": "Machakos",
+          "code": "22",
+          "file": "404-22-c70308c01c35da46d0ff58624c97c4ef3ffaa5f17a887888c09461b065667ea3.sqlite.pack",
+          "sha256": "c70308c01c35da46d0ff58624c97c4ef3ffaa5f17a887888c09461b065667ea3",
+          "packedBytes": 9383,
+          "bytes": 86016
+        },
+        {
+          "name": "Makueni",
+          "code": "23",
+          "file": "404-23-cbefca78c17de2a281cf5f0b09677fe82be8677e5b9e7273829293bbce1e80a8.sqlite.pack",
+          "sha256": "cbefca78c17de2a281cf5f0b09677fe82be8677e5b9e7273829293bbce1e80a8",
+          "packedBytes": 6046,
+          "bytes": 77824
+        },
+        {
+          "name": "Mandera",
+          "code": "24",
+          "file": "404-24-57afb8bd1a383b55569f124fb0c8f8032f35e1f5c03562fd4903eeabaf70af34.sqlite.pack",
+          "sha256": "57afb8bd1a383b55569f124fb0c8f8032f35e1f5c03562fd4903eeabaf70af34",
+          "packedBytes": 5779,
+          "bytes": 77824
+        },
+        {
+          "name": "Marsabit",
+          "code": "25",
+          "file": "404-25-171fc275eb9d9d77c7e521f090bb4318d522c9a048b1abf83544b9958979c357.sqlite.pack",
+          "sha256": "171fc275eb9d9d77c7e521f090bb4318d522c9a048b1abf83544b9958979c357",
+          "packedBytes": 5646,
+          "bytes": 77824
+        },
+        {
+          "name": "Meru",
+          "code": "26",
+          "file": "404-26-820c89debea93bccbb5b84538836c63043a689798e13aef01e9c6a52d5b84530.sqlite.pack",
+          "sha256": "820c89debea93bccbb5b84538836c63043a689798e13aef01e9c6a52d5b84530",
+          "packedBytes": 7283,
+          "bytes": 81920
+        },
+        {
+          "name": "Migori",
+          "code": "27",
+          "file": "404-27-bfa51631ed3721bf464ce8762ce56779f01bd0ff1a7376eb857f9bbc0ba6626d.sqlite.pack",
+          "sha256": "bfa51631ed3721bf464ce8762ce56779f01bd0ff1a7376eb857f9bbc0ba6626d",
+          "packedBytes": 7295,
+          "bytes": 81920
+        },
+        {
+          "name": "Mombasa",
+          "code": "28",
+          "file": "404-28-ccbf0c615dbce67015f58b326723ff11c541d6e911ce96359e6f264943ec3570.sqlite.pack",
+          "sha256": "ccbf0c615dbce67015f58b326723ff11c541d6e911ce96359e6f264943ec3570",
+          "packedBytes": 29548,
+          "bytes": 167936
+        },
+        {
+          "name": "Murang'a",
+          "code": "29",
+          "file": "404-29-0393893c9d11f9c0d41b9b575a0088e0b0d40914d1544183d2a0d577ec1f7727.sqlite.pack",
+          "sha256": "0393893c9d11f9c0d41b9b575a0088e0b0d40914d1544183d2a0d577ec1f7727",
+          "packedBytes": 7816,
+          "bytes": 81920
+        },
+        {
+          "name": "Nairobi",
+          "code": "30",
+          "file": "404-30-f93b0d44dabaf012ffda0023045bd0b49161655b5fa2d4291190a7843e0218ee.sqlite.pack",
+          "sha256": "f93b0d44dabaf012ffda0023045bd0b49161655b5fa2d4291190a7843e0218ee",
+          "packedBytes": 26725,
+          "bytes": 126976
+        },
+        {
+          "name": "Nakuru",
+          "code": "31",
+          "file": "404-31-fbc03c6536c5f8e972750ad115b3b3f17d294ac0811440e40227e3ac71a06d0e.sqlite.pack",
+          "sha256": "fbc03c6536c5f8e972750ad115b3b3f17d294ac0811440e40227e3ac71a06d0e",
+          "packedBytes": 14452,
+          "bytes": 98304
+        },
+        {
+          "name": "Nandi",
+          "code": "32",
+          "file": "404-32-99f7b6dae4e57efbff694a91766808abf6c399bee42ac937562860fe2181e66f.sqlite.pack",
+          "sha256": "99f7b6dae4e57efbff694a91766808abf6c399bee42ac937562860fe2181e66f",
+          "packedBytes": 4957,
+          "bytes": 77824
+        },
+        {
+          "name": "Narok",
+          "code": "33",
+          "file": "404-33-21dfb7dd98e0163b3ca32747b9b7330dfa683caef86caba7858f09177e4e35df.sqlite.pack",
+          "sha256": "21dfb7dd98e0163b3ca32747b9b7330dfa683caef86caba7858f09177e4e35df",
+          "packedBytes": 4711,
+          "bytes": 69632
+        },
+        {
+          "name": "Nyamira",
+          "code": "34",
+          "file": "404-34-37d33972d46523d857c35cfecc7577ead45605803e7022042c9f0220d844fa81.sqlite.pack",
+          "sha256": "37d33972d46523d857c35cfecc7577ead45605803e7022042c9f0220d844fa81",
+          "packedBytes": 4983,
+          "bytes": 77824
+        },
+        {
+          "name": "Nyandarua",
+          "code": "35",
+          "file": "404-35-1e8f97ccd3d0ea835b0a03fa6e4670d945e16bb2ae1c856c23a31a10b3495303.sqlite.pack",
+          "sha256": "1e8f97ccd3d0ea835b0a03fa6e4670d945e16bb2ae1c856c23a31a10b3495303",
+          "packedBytes": 6902,
+          "bytes": 77824
+        },
+        {
+          "name": "Nyeri",
+          "code": "36",
+          "file": "404-36-a1d78e23ec33a2de0f512776dfb774b213801789d90f64786117c660acc1c00c.sqlite.pack",
+          "sha256": "a1d78e23ec33a2de0f512776dfb774b213801789d90f64786117c660acc1c00c",
+          "packedBytes": 7725,
+          "bytes": 81920
+        },
+        {
+          "name": "Samburu",
+          "code": "37",
+          "file": "404-37-7009071ebf750ca94ec90b7c840f6d8a676c5046fc71118153214220ca95e803.sqlite.pack",
+          "sha256": "7009071ebf750ca94ec90b7c840f6d8a676c5046fc71118153214220ca95e803",
+          "packedBytes": 4678,
+          "bytes": 69632
+        },
+        {
+          "name": "Siaya",
+          "code": "38",
+          "file": "404-38-09a41a85b49a9f79407cb8ead7cf6850889fe7e63c2eeee1eeff89068cc1d048.sqlite.pack",
+          "sha256": "09a41a85b49a9f79407cb8ead7cf6850889fe7e63c2eeee1eeff89068cc1d048",
+          "packedBytes": 7043,
+          "bytes": 81920
+        },
+        {
+          "name": "Taita Taveta",
+          "code": "39",
+          "file": "404-39-95097f7129c8dc03c16118370f9d835ee7db5b563b3e099d930776daee1fb42b.sqlite.pack",
+          "sha256": "95097f7129c8dc03c16118370f9d835ee7db5b563b3e099d930776daee1fb42b",
+          "packedBytes": 5621,
+          "bytes": 77824
+        },
+        {
+          "name": "Tana River",
+          "code": "40",
+          "file": "404-40-7b8fdee48dfdeebe10dfd9d63f15d87e8fa9db718903f69733efe592df3a9441.sqlite.pack",
+          "sha256": "7b8fdee48dfdeebe10dfd9d63f15d87e8fa9db718903f69733efe592df3a9441",
+          "packedBytes": 3168,
+          "bytes": 69632
+        },
+        {
+          "name": "Tharaka",
+          "code": "41",
+          "file": "404-41-70d72011271b12bf19d2f8354cc08037d5eef77eedeb0d9124b0c2047765444c.sqlite.pack",
+          "sha256": "70d72011271b12bf19d2f8354cc08037d5eef77eedeb0d9124b0c2047765444c",
+          "packedBytes": 4608,
+          "bytes": 77824
+        },
+        {
+          "name": "Trans Nzoia",
+          "code": "42",
+          "file": "404-42-b85dadfd70e77db5403dfb6b70f52469af89cb9f0144d15e366710560d0f8652.sqlite.pack",
+          "sha256": "b85dadfd70e77db5403dfb6b70f52469af89cb9f0144d15e366710560d0f8652",
+          "packedBytes": 3292,
+          "bytes": 69632
+        },
+        {
+          "name": "Turkana",
+          "code": "43",
+          "file": "404-43-526c7a80004710af29328de05f9fec8dd7faae22bf7ad54c4b2cf33c932c51c2.sqlite.pack",
+          "sha256": "526c7a80004710af29328de05f9fec8dd7faae22bf7ad54c4b2cf33c932c51c2",
+          "packedBytes": 4592,
+          "bytes": 69632
+        },
+        {
+          "name": "Uasin Gishu",
+          "code": "44",
+          "file": "404-44-f3d1415b5717f9d270beaf033005bead3d494d913f2466c9238075cfba60db6c.sqlite.pack",
+          "sha256": "f3d1415b5717f9d270beaf033005bead3d494d913f2466c9238075cfba60db6c",
+          "packedBytes": 4702,
+          "bytes": 69632
+        },
+        {
+          "name": "Vihiga",
+          "code": "45",
+          "file": "404-45-58fe426cbc977cac3108feefa981d50d96da48b0e8939be1215ea8236e6cc1e1.sqlite.pack",
+          "sha256": "58fe426cbc977cac3108feefa981d50d96da48b0e8939be1215ea8236e6cc1e1",
+          "packedBytes": 4783,
+          "bytes": 69632
+        },
+        {
+          "name": "Wajir",
+          "code": "46",
+          "file": "404-46-0e62176add811a4d04de515ceb800659f981551fb16995440ad32f6c17d557b8.sqlite.pack",
+          "sha256": "0e62176add811a4d04de515ceb800659f981551fb16995440ad32f6c17d557b8",
+          "packedBytes": 5042,
+          "bytes": 77824
+        },
+        {
+          "name": "West Pokot",
+          "code": "47",
+          "file": "404-47-fb6e6770b567fceabfb32d8a122b5248cea4e3f1ae8c0ca3f3286b71ecb03ff4.sqlite.pack",
+          "sha256": "fb6e6770b567fceabfb32d8a122b5248cea4e3f1ae8c0ca3f3286b71ecb03ff4",
+          "packedBytes": 3480,
+          "bytes": 69632
+        }
+      ]
+    },
+    {
+      "id": "484",
+      "name": "Mexico",
+      "attribution": "Source: INEGI, Marco Geoestadístico, December 2025; population: Census 2020. Adapted for Traqui; no endorsement implied.",
+      "licenseUrl": "https://www.inegi.org.mx/inegi/terminos.html",
+      "packs": [
+        {
+          "name": "Aguascalientes",
+          "code": "01",
+          "file": "484-01-62a90587a12127037287d7ed083ebc04a713e4b30041a9c39efd578516fbfaac.sqlite.pack",
+          "sha256": "62a90587a12127037287d7ed083ebc04a713e4b30041a9c39efd578516fbfaac",
+          "packedBytes": 556344,
+          "bytes": 1994752
+        },
+        {
+          "name": "Baja California",
+          "code": "02",
+          "file": "484-02-7a564ef8c29a232efb2eee3b663335d8e7a73c87381f65d8d03ca3c5d3b68822.sqlite.pack",
+          "sha256": "7a564ef8c29a232efb2eee3b663335d8e7a73c87381f65d8d03ca3c5d3b68822",
+          "packedBytes": 844498,
+          "bytes": 2813952
+        },
+        {
+          "name": "Baja California Sur",
+          "code": "03",
+          "file": "484-03-c683b7369541e93ac45dc5a265428fd5664518e167bfacd0aa6803b00b72be95.sqlite.pack",
+          "sha256": "c683b7369541e93ac45dc5a265428fd5664518e167bfacd0aa6803b00b72be95",
+          "packedBytes": 434951,
+          "bytes": 1433600
+        },
+        {
+          "name": "Campeche",
+          "code": "04",
+          "file": "484-04-acb3d8dcdaa0f08392e99c971979adc3d06c9857ddbc7a5fa448c5abf7e67c8e.sqlite.pack",
+          "sha256": "acb3d8dcdaa0f08392e99c971979adc3d06c9857ddbc7a5fa448c5abf7e67c8e",
+          "packedBytes": 441463,
+          "bytes": 1355776
+        },
+        {
+          "name": "Coahuila de Zaragoza",
+          "code": "05",
+          "file": "484-05-cef9b5a72d0f196c69cd9ec61d485c3cfcb64538d0a1c900f588a69df027d245.sqlite.pack",
+          "sha256": "cef9b5a72d0f196c69cd9ec61d485c3cfcb64538d0a1c900f588a69df027d245",
+          "packedBytes": 850543,
+          "bytes": 2793472
+        },
+        {
+          "name": "Colima",
+          "code": "06",
+          "file": "484-06-62aacffe90f9f9946b48fc209f0742331eaf10599eefd758cd55a7a42cbddbd0.sqlite.pack",
+          "sha256": "62aacffe90f9f9946b48fc209f0742331eaf10599eefd758cd55a7a42cbddbd0",
+          "packedBytes": 280053,
+          "bytes": 978944
+        },
+        {
+          "name": "Chiapas",
+          "code": "07",
+          "file": "484-07-e03c18980984440c9e6e65b7f0a12f62d48619e7b25fd2e108ec578ef7410d68.sqlite.pack",
+          "sha256": "e03c18980984440c9e6e65b7f0a12f62d48619e7b25fd2e108ec578ef7410d68",
+          "packedBytes": 3277985,
+          "bytes": 10330112
+        },
+        {
+          "name": "Chihuahua",
+          "code": "08",
+          "file": "484-08-4d4f2374a037d840ce20b2869535e9f78376ac47ad575ae5a7500efe9bf2b7ce.sqlite.pack",
+          "sha256": "4d4f2374a037d840ce20b2869535e9f78376ac47ad575ae5a7500efe9bf2b7ce",
+          "packedBytes": 1736721,
+          "bytes": 5767168
+        },
+        {
+          "name": "Ciudad de México",
+          "code": "09",
+          "file": "484-09-b9bcfbf81b8eca1d515d4692c0640f171023d15ff795977a7436d7e8f18c287d.sqlite.pack",
+          "sha256": "b9bcfbf81b8eca1d515d4692c0640f171023d15ff795977a7436d7e8f18c287d",
+          "packedBytes": 304459,
+          "bytes": 1015808
+        },
+        {
+          "name": "Durango",
+          "code": "10",
+          "file": "484-10-4dc71bd50536a7d96e192a0e771febb7ca8f738838d5b1aff67f66c5545c51e0.sqlite.pack",
+          "sha256": "4dc71bd50536a7d96e192a0e771febb7ca8f738838d5b1aff67f66c5545c51e0",
+          "packedBytes": 1177308,
+          "bytes": 3854336
+        },
+        {
+          "name": "Guanajuato",
+          "code": "11",
+          "file": "484-11-ff210b9d45725793d90659a177f6ed612008894251749dc68802336370cd56de.sqlite.pack",
+          "sha256": "ff210b9d45725793d90659a177f6ed612008894251749dc68802336370cd56de",
+          "packedBytes": 3813749,
+          "bytes": 13025280
+        },
+        {
+          "name": "Guerrero",
+          "code": "12",
+          "file": "484-12-1f8308cc7c510f5c646e4a96c66e320ea5566e533d8b0264c0dccf8affee0e0a.sqlite.pack",
+          "sha256": "1f8308cc7c510f5c646e4a96c66e320ea5566e533d8b0264c0dccf8affee0e0a",
+          "packedBytes": 3131531,
+          "bytes": 10432512
+        },
+        {
+          "name": "Hidalgo",
+          "code": "13",
+          "file": "484-13-66f4c68ccd2ff03618144184836f6f41cfb24d74843224d8894872225339968b.sqlite.pack",
+          "sha256": "66f4c68ccd2ff03618144184836f6f41cfb24d74843224d8894872225339968b",
+          "packedBytes": 3397101,
+          "bytes": 11169792
+        },
+        {
+          "name": "Jalisco",
+          "code": "14",
+          "file": "484-14-84345d90491da5f676a2395488e1c39d3f05d363f715aae844798d0b08067ae3.sqlite.pack",
+          "sha256": "84345d90491da5f676a2395488e1c39d3f05d363f715aae844798d0b08067ae3",
+          "packedBytes": 2199780,
+          "bytes": 7475200
+        },
+        {
+          "name": "México",
+          "code": "15",
+          "file": "484-15-986ef09a669d61c510b7de18c947b6d68e2df480dbf4a368fabed63b66f890a4.sqlite.pack",
+          "sha256": "986ef09a669d61c510b7de18c947b6d68e2df480dbf4a368fabed63b66f890a4",
+          "packedBytes": 5397785,
+          "bytes": 17879040
+        },
+        {
+          "name": "Michoacán de Ocampo",
+          "code": "16",
+          "file": "484-16-92ebe943bf8dac349fe8e9082651ab5fda2b658a1a55a6e90660d423f9536e21.sqlite.pack",
+          "sha256": "92ebe943bf8dac349fe8e9082651ab5fda2b658a1a55a6e90660d423f9536e21",
+          "packedBytes": 3317390,
+          "bytes": 11165696
+        },
+        {
+          "name": "Morelos",
+          "code": "17",
+          "file": "484-17-3e2758c6bbeee7411688ee9bf96d6027015d60516fe7fb46a26c3b54551fdf42.sqlite.pack",
+          "sha256": "3e2758c6bbeee7411688ee9bf96d6027015d60516fe7fb46a26c3b54551fdf42",
+          "packedBytes": 1194355,
+          "bytes": 3973120
+        },
+        {
+          "name": "Nayarit",
+          "code": "18",
+          "file": "484-18-234c246184cd700884925e45d61b4ce697b0c016f62d7415a28a3e8c5e5b792e.sqlite.pack",
+          "sha256": "234c246184cd700884925e45d61b4ce697b0c016f62d7415a28a3e8c5e5b792e",
+          "packedBytes": 911742,
+          "bytes": 3129344
+        },
+        {
+          "name": "Nuevo León",
+          "code": "19",
+          "file": "484-19-4f7ec35780eb71ab87a248e7f95b4657b90cfd257b9f25da7a5ee6857508105c.sqlite.pack",
+          "sha256": "4f7ec35780eb71ab87a248e7f95b4657b90cfd257b9f25da7a5ee6857508105c",
+          "packedBytes": 1587567,
+          "bytes": 5292032
+        },
+        {
+          "name": "Oaxaca",
+          "code": "20",
+          "file": "484-20-5c2cb55311f93166bda26693e69b9154cd81d06a44075bd4c75cdb1e2bb35fc7.sqlite.pack",
+          "sha256": "5c2cb55311f93166bda26693e69b9154cd81d06a44075bd4c75cdb1e2bb35fc7",
+          "packedBytes": 6283439,
+          "bytes": 20627456
+        },
+        {
+          "name": "Puebla",
+          "code": "21",
+          "file": "484-21-ba7387debb29b25c77442c1d9792879c9110628f6375a07c99b15124192430c3.sqlite.pack",
+          "sha256": "ba7387debb29b25c77442c1d9792879c9110628f6375a07c99b15124192430c3",
+          "packedBytes": 3846552,
+          "bytes": 12824576
+        },
+        {
+          "name": "Querétaro",
+          "code": "22",
+          "file": "484-22-03a094a86c08e8a00ee716df97c928f8156b056014e04f0d50a178cb4801130d.sqlite.pack",
+          "sha256": "03a094a86c08e8a00ee716df97c928f8156b056014e04f0d50a178cb4801130d",
+          "packedBytes": 1340152,
+          "bytes": 4513792
+        },
+        {
+          "name": "Quintana Roo",
+          "code": "23",
+          "file": "484-23-5a1bdc33ac6bcc56d54d5bd773ef4d3e82fea738e849492efa56d1861b6d1089.sqlite.pack",
+          "sha256": "5a1bdc33ac6bcc56d54d5bd773ef4d3e82fea738e849492efa56d1861b6d1089",
+          "packedBytes": 414602,
+          "bytes": 1286144
+        },
+        {
+          "name": "San Luis Potosí",
+          "code": "24",
+          "file": "484-24-68ed7fe3f4b53b7ae43c02beabaae0238b6d501b2ed6c9b1c56c5ad87630c8b6.sqlite.pack",
+          "sha256": "68ed7fe3f4b53b7ae43c02beabaae0238b6d501b2ed6c9b1c56c5ad87630c8b6",
+          "packedBytes": 2440497,
+          "bytes": 8343552
+        },
+        {
+          "name": "Sinaloa",
+          "code": "25",
+          "file": "484-25-a37df294370f24f12d5370e5d0f62a93d0a644a1ac495c6a6b4310ca75492f49.sqlite.pack",
+          "sha256": "a37df294370f24f12d5370e5d0f62a93d0a644a1ac495c6a6b4310ca75492f49",
+          "packedBytes": 1444227,
+          "bytes": 4775936
+        },
+        {
+          "name": "Sonora",
+          "code": "26",
+          "file": "484-26-f98728a82a8ed8b376c137fc5c6eb767bf27b84259b055a6f346e524e33e889d.sqlite.pack",
+          "sha256": "f98728a82a8ed8b376c137fc5c6eb767bf27b84259b055a6f346e524e33e889d",
+          "packedBytes": 998038,
+          "bytes": 3264512
+        },
+        {
+          "name": "Tabasco",
+          "code": "27",
+          "file": "484-27-fac188201d3603cc2a34153e3eec29737dafe1abc045c2d08b1e8f7aaa95c594.sqlite.pack",
+          "sha256": "fac188201d3603cc2a34153e3eec29737dafe1abc045c2d08b1e8f7aaa95c594",
+          "packedBytes": 1027415,
+          "bytes": 3334144
+        },
+        {
+          "name": "Tamaulipas",
+          "code": "28",
+          "file": "484-28-5027e8da32b8c683b2953a4c7b5cb3b222368384bbe4f3453fd8dd1ba7ea72f3.sqlite.pack",
+          "sha256": "5027e8da32b8c683b2953a4c7b5cb3b222368384bbe4f3453fd8dd1ba7ea72f3",
+          "packedBytes": 1493769,
+          "bytes": 4943872
+        },
+        {
+          "name": "Tlaxcala",
+          "code": "29",
+          "file": "484-29-ef771f5a8c59af80a20176d72b6510ccc95fe800240f736f2b6bb591ca894994.sqlite.pack",
+          "sha256": "ef771f5a8c59af80a20176d72b6510ccc95fe800240f736f2b6bb591ca894994",
+          "packedBytes": 699432,
+          "bytes": 2379776
+        },
+        {
+          "name": "Veracruz de Ignacio de la Llave",
+          "code": "30",
+          "file": "484-30-5232b82102babd54b961997a8dfb2de41964b072a294b7ae70385ed931fa60ae.sqlite.pack",
+          "sha256": "5232b82102babd54b961997a8dfb2de41964b072a294b7ae70385ed931fa60ae",
+          "packedBytes": 4364491,
+          "bytes": 13885440
+        },
+        {
+          "name": "Yucatán",
+          "code": "31",
+          "file": "484-31-e0c9e2ac0eb981927e8b44110cb40094fdce1c487130fc7fc0856812c6d136b8.sqlite.pack",
+          "sha256": "e0c9e2ac0eb981927e8b44110cb40094fdce1c487130fc7fc0856812c6d136b8",
+          "packedBytes": 685773,
+          "bytes": 2211840
+        },
+        {
+          "name": "Zacatecas",
+          "code": "32",
+          "file": "484-32-f192383303a209c5bb15a19b25a50ce1d4257c6026a3f9215995257c901f663f.sqlite.pack",
+          "sha256": "f192383303a209c5bb15a19b25a50ce1d4257c6026a3f9215995257c901f663f",
+          "packedBytes": 1426467,
+          "bytes": 4755456
+        }
+      ]
+    },
+    {
+      "id": "170",
+      "name": "Colombia",
+      "attribution": "Departamento Administrativo Nacional de Estadística - DANE: www.dane.gov.co. MGN 2025 statistical urban zones, CC BY 4.0; adapted for Traqui. The parent map uses geoBoundaries gbOpen (CC BY 4.0).",
+      "licenseUrl": "https://geoportal.dane.gov.co/acerca-del-geoportal/licencia-y-condiciones-de-uso/",
+      "packs": [
+        {
+          "name": "Antioquia",
+          "code": "05",
+          "file": "170-05-be569603b2c11090e05a6b650fd1e717cf97bbe60a248aea7899a50faaab8d10.sqlite.pack",
+          "sha256": "be569603b2c11090e05a6b650fd1e717cf97bbe60a248aea7899a50faaab8d10",
+          "packedBytes": 4406699,
+          "bytes": 12054528
+        },
+        {
+          "name": "Atlántico",
+          "code": "08",
+          "file": "170-08-8ca73212c275b5764d3d935a8b15f6a4e07af8e2555880327278c0fe1f909ca7.sqlite.pack",
+          "sha256": "8ca73212c275b5764d3d935a8b15f6a4e07af8e2555880327278c0fe1f909ca7",
+          "packedBytes": 790036,
+          "bytes": 2199552
+        },
+        {
+          "name": "Bogotá, D.C.",
+          "code": "11",
+          "file": "170-11-305a5e67008be242771588a4338a2d5f5e6ff1636730cf0c4cffb82b78fda007.sqlite.pack",
+          "sha256": "305a5e67008be242771588a4338a2d5f5e6ff1636730cf0c4cffb82b78fda007",
+          "packedBytes": 345308,
+          "bytes": 983040
+        },
+        {
+          "name": "Bolívar",
+          "code": "13",
+          "file": "170-13-2829f3f1be036f558a2af52a79c8209c43c24c38348bda467b0b7a77b9b09461.sqlite.pack",
+          "sha256": "2829f3f1be036f558a2af52a79c8209c43c24c38348bda467b0b7a77b9b09461",
+          "packedBytes": 2047217,
+          "bytes": 5689344
+        },
+        {
+          "name": "Boyacá",
+          "code": "15",
+          "file": "170-15-f2bba6c1e03545e92f8c5818400804397101badeaaeedecd786dc9979a98d461.sqlite.pack",
+          "sha256": "f2bba6c1e03545e92f8c5818400804397101badeaaeedecd786dc9979a98d461",
+          "packedBytes": 1293892,
+          "bytes": 3551232
+        },
+        {
+          "name": "Caldas",
+          "code": "17",
+          "file": "170-17-aac0c01f89c5b067490de50b76075771bcc738feab89ee60332d04fa795697aa.sqlite.pack",
+          "sha256": "aac0c01f89c5b067490de50b76075771bcc738feab89ee60332d04fa795697aa",
+          "packedBytes": 1431135,
+          "bytes": 3907584
+        },
+        {
+          "name": "Caquetá",
+          "code": "18",
+          "file": "170-18-08ea27a20eb282387c55411fb56d7082f02b7a68928b3f2d4cc73073faa4cecc.sqlite.pack",
+          "sha256": "08ea27a20eb282387c55411fb56d7082f02b7a68928b3f2d4cc73073faa4cecc",
+          "packedBytes": 413467,
+          "bytes": 1159168
+        },
+        {
+          "name": "Cauca",
+          "code": "19",
+          "file": "170-19-7fe07d626a67e295e03a89cbd07176d47acc732b12fdd567299f12ceeb151dbb.sqlite.pack",
+          "sha256": "7fe07d626a67e295e03a89cbd07176d47acc732b12fdd567299f12ceeb151dbb",
+          "packedBytes": 1978139,
+          "bytes": 5558272
+        },
+        {
+          "name": "Cesar",
+          "code": "20",
+          "file": "170-20-a2ffb387e1ae9da3e0388b7f3b93ed8d4a13c1b68e06b99d2625c4ac36acd271.sqlite.pack",
+          "sha256": "a2ffb387e1ae9da3e0388b7f3b93ed8d4a13c1b68e06b99d2625c4ac36acd271",
+          "packedBytes": 907867,
+          "bytes": 2551808
+        },
+        {
+          "name": "Córdoba",
+          "code": "23",
+          "file": "170-23-f429f12bd2d804bdf1d84d555c8fd9ff8e3cddc40cbb6daba5357f42387a277b.sqlite.pack",
+          "sha256": "f429f12bd2d804bdf1d84d555c8fd9ff8e3cddc40cbb6daba5357f42387a277b",
+          "packedBytes": 1852981,
+          "bytes": 5218304
+        },
+        {
+          "name": "Cundinamarca",
+          "code": "25",
+          "file": "170-25-900f574294859d025e16ede49370958dd931ae04aec635ca5ae8e05c0af15926.sqlite.pack",
+          "sha256": "900f574294859d025e16ede49370958dd931ae04aec635ca5ae8e05c0af15926",
+          "packedBytes": 2325709,
+          "bytes": 6373376
+        },
+        {
+          "name": "Chocó",
+          "code": "27",
+          "file": "170-27-65e1cc8d0f9e4c46a6545236f39a6ae74333fa4a8ebb5f59a159f6c9c663201e.sqlite.pack",
+          "sha256": "65e1cc8d0f9e4c46a6545236f39a6ae74333fa4a8ebb5f59a159f6c9c663201e",
+          "packedBytes": 814584,
+          "bytes": 2396160
+        },
+        {
+          "name": "Huila",
+          "code": "41",
+          "file": "170-41-c67124054a075abb4add231ede252cef13e351314fc387b1b82942c19d59f2fc.sqlite.pack",
+          "sha256": "c67124054a075abb4add231ede252cef13e351314fc387b1b82942c19d59f2fc",
+          "packedBytes": 1022197,
+          "bytes": 2805760
+        },
+        {
+          "name": "La Guajira",
+          "code": "44",
+          "file": "170-44-ee142f169f8d1359bb126a311c7964075ddf2548a0b3be6f334311debcf35973.sqlite.pack",
+          "sha256": "ee142f169f8d1359bb126a311c7964075ddf2548a0b3be6f334311debcf35973",
+          "packedBytes": 741838,
+          "bytes": 2113536
+        },
+        {
+          "name": "Magdalena",
+          "code": "47",
+          "file": "170-47-03da70b5e7ed43d124959be30ff2bf0658073069d6b65940808c6dab88b5e143.sqlite.pack",
+          "sha256": "03da70b5e7ed43d124959be30ff2bf0658073069d6b65940808c6dab88b5e143",
+          "packedBytes": 1327440,
+          "bytes": 3731456
+        },
+        {
+          "name": "Meta",
+          "code": "50",
+          "file": "170-50-6bc84ddc33d891ad6f43f61d670153f78449ba035c8800c05cbc6e965aece2f8.sqlite.pack",
+          "sha256": "6bc84ddc33d891ad6f43f61d670153f78449ba035c8800c05cbc6e965aece2f8",
+          "packedBytes": 826085,
+          "bytes": 2289664
+        },
+        {
+          "name": "Nariño",
+          "code": "52",
+          "file": "170-52-879b0f08fe6cb4d9dae3fbfefbff8c6f9f7884365b3f0af40d324de048946ff3.sqlite.pack",
+          "sha256": "879b0f08fe6cb4d9dae3fbfefbff8c6f9f7884365b3f0af40d324de048946ff3",
+          "packedBytes": 2144116,
+          "bytes": 5963776
+        },
+        {
+          "name": "Norte De Santander",
+          "code": "54",
+          "file": "170-54-d9c87476814b188ae07b57d10cc9eb0795bee27c4f566775beca81bc02a77a8b.sqlite.pack",
+          "sha256": "d9c87476814b188ae07b57d10cc9eb0795bee27c4f566775beca81bc02a77a8b",
+          "packedBytes": 1106615,
+          "bytes": 3076096
+        },
+        {
+          "name": "Quindío",
+          "code": "63",
+          "file": "170-63-6097b47eb3296bf7647af76d39a674c98255c9222f874de2a3e307f05533a0cd.sqlite.pack",
+          "sha256": "6097b47eb3296bf7647af76d39a674c98255c9222f874de2a3e307f05533a0cd",
+          "packedBytes": 395859,
+          "bytes": 1130496
+        },
+        {
+          "name": "Risaralda",
+          "code": "66",
+          "file": "170-66-c338ca7585069cfa87ac67fb94f20d90f31e7862470f905797009eedf02d0338.sqlite.pack",
+          "sha256": "c338ca7585069cfa87ac67fb94f20d90f31e7862470f905797009eedf02d0338",
+          "packedBytes": 965279,
+          "bytes": 2674688
+        },
+        {
+          "name": "Santander",
+          "code": "68",
+          "file": "170-68-e278ff1c3dda17dc93d73826e917bc852154bda8f4ad31b6ebbe05a78effa50d.sqlite.pack",
+          "sha256": "e278ff1c3dda17dc93d73826e917bc852154bda8f4ad31b6ebbe05a78effa50d",
+          "packedBytes": 1721306,
+          "bytes": 4767744
+        },
+        {
+          "name": "Sucre",
+          "code": "70",
+          "file": "170-70-4bf204677f7c945d03fe48d9505a192dec91d13305b9fdd7bbb7e80c8a16442d.sqlite.pack",
+          "sha256": "4bf204677f7c945d03fe48d9505a192dec91d13305b9fdd7bbb7e80c8a16442d",
+          "packedBytes": 1444253,
+          "bytes": 4014080
+        },
+        {
+          "name": "Tolima",
+          "code": "73",
+          "file": "170-73-037b8f10239003bb96dcb3590d709681120c1ddc232d2ab3c46052d85619c82c.sqlite.pack",
+          "sha256": "037b8f10239003bb96dcb3590d709681120c1ddc232d2ab3c46052d85619c82c",
+          "packedBytes": 1493351,
+          "bytes": 4104192
+        },
+        {
+          "name": "Valle Del Cauca",
+          "code": "76",
+          "file": "170-76-4b720c8a3c4de4989d06843b8f66a0536c51960127609547b975ea4a3bc38600.sqlite.pack",
+          "sha256": "4b720c8a3c4de4989d06843b8f66a0536c51960127609547b975ea4a3bc38600",
+          "packedBytes": 2537603,
+          "bytes": 7004160
+        },
+        {
+          "name": "Arauca",
+          "code": "81",
+          "file": "170-81-f262fb3d750cb003d0a7bc7208956265d66e3bd31aa42a32625fa37916e00a68.sqlite.pack",
+          "sha256": "f262fb3d750cb003d0a7bc7208956265d66e3bd31aa42a32625fa37916e00a68",
+          "packedBytes": 249731,
+          "bytes": 737280
+        },
+        {
+          "name": "Casanare",
+          "code": "85",
+          "file": "170-85-909c16040d6a7c50923391085e979634e91e52d244ff2c1e1cccd91b6d86c7fe.sqlite.pack",
+          "sha256": "909c16040d6a7c50923391085e979634e91e52d244ff2c1e1cccd91b6d86c7fe",
+          "packedBytes": 383906,
+          "bytes": 1085440
+        },
+        {
+          "name": "Putumayo",
+          "code": "86",
+          "file": "170-86-ddfc2868a2e34f66ad8d9e681e92359afbff6202329856d471b12772087b217a.sqlite.pack",
+          "sha256": "ddfc2868a2e34f66ad8d9e681e92359afbff6202329856d471b12772087b217a",
+          "packedBytes": 452273,
+          "bytes": 1286144
+        },
+        {
+          "name": "Archipiélago De San Andrés, Providencia Y Santa Catalina",
+          "code": "88",
+          "file": "170-88-53e157c9ddb65e9d4a473fd1d82224cb6efe9d095fde32c3ef61bdf45f76a664.sqlite.pack",
+          "sha256": "53e157c9ddb65e9d4a473fd1d82224cb6efe9d095fde32c3ef61bdf45f76a664",
+          "packedBytes": 359022,
+          "bytes": 1175552
+        },
+        {
+          "name": "Amazonas",
+          "code": "91",
+          "file": "170-91-fd608dec5346055c80114d39db60ad11ff1d6d2f04b235c9c0145160e2b13288.sqlite.pack",
+          "sha256": "fd608dec5346055c80114d39db60ad11ff1d6d2f04b235c9c0145160e2b13288",
+          "packedBytes": 244141,
+          "bytes": 737280
+        },
+        {
+          "name": "Guainía",
+          "code": "94",
+          "file": "170-94-f0d55cfd58d155fba8da406ca59e2d4482c499eb53d558ef5d70201085235e72.sqlite.pack",
+          "sha256": "f0d55cfd58d155fba8da406ca59e2d4482c499eb53d558ef5d70201085235e72",
+          "packedBytes": 112418,
+          "bytes": 376832
+        },
+        {
+          "name": "Guaviare",
+          "code": "95",
+          "file": "170-95-4ddbd134726e708f190b256b65cecd4c81966b6e489917c74775562b62149e75.sqlite.pack",
+          "sha256": "4ddbd134726e708f190b256b65cecd4c81966b6e489917c74775562b62149e75",
+          "packedBytes": 119600,
+          "bytes": 389120
+        },
+        {
+          "name": "Vaupés",
+          "code": "97",
+          "file": "170-97-3c4c4da8c66510f5a9b85a0380d27743292164c517479ccc4935ecdb89e6b9f5.sqlite.pack",
+          "sha256": "3c4c4da8c66510f5a9b85a0380d27743292164c517479ccc4935ecdb89e6b9f5",
+          "packedBytes": 89154,
+          "bytes": 303104
+        },
+        {
+          "name": "Vichada",
+          "code": "99",
+          "file": "170-99-713809b5dfed7d14c13b17df6bdd54c207545d3ea5bf084eb5619aa517155843.sqlite.pack",
+          "sha256": "713809b5dfed7d14c13b17df6bdd54c207545d3ea5bf084eb5619aa517155843",
+          "packedBytes": 147574,
+          "bytes": 454656
+        }
+      ]
+    },
+    {
+      "id": "858",
+      "name": "Uruguay",
+      "attribution": "Instituto Nacional de Estadística, Uruguay: 2023 census-locality polygons via IDE Uruguay, adapted for Traqui. Statistical localities are not legal town limits; municipality and department parent maps use geoBoundaries gbOpen.",
+      "licenseUrl": "https://visualizador.ide.uy/geonetwork/srv/api/records/8f7e2a69-9141-458f-b19a-a96240a8d996",
+      "packs": [
+        {
+          "name": "Montevideo",
+          "code": "01",
+          "file": "858-01-a8e9f99a84b8e04ad010d174ab7a914b1acde8cd3aadc0a59abe03998ddb0ef9.sqlite.pack",
+          "sha256": "a8e9f99a84b8e04ad010d174ab7a914b1acde8cd3aadc0a59abe03998ddb0ef9",
+          "packedBytes": 119739,
+          "bytes": 475136
+        },
+        {
+          "name": "Artigas",
+          "code": "02",
+          "file": "858-02-3ac107247258f11cb49c81b1828054d47422f2bca13294353743bed5c1b53f72.sqlite.pack",
+          "sha256": "3ac107247258f11cb49c81b1828054d47422f2bca13294353743bed5c1b53f72",
+          "packedBytes": 59277,
+          "bytes": 253952
+        },
+        {
+          "name": "Canelones",
+          "code": "03",
+          "file": "858-03-e15d13bf554494ade86194136b45723cdb1b407d49766e10907a515108b536d2.sqlite.pack",
+          "sha256": "e15d13bf554494ade86194136b45723cdb1b407d49766e10907a515108b536d2",
+          "packedBytes": 226677,
+          "bytes": 774144
+        },
+        {
+          "name": "Cerro Largo",
+          "code": "04",
+          "file": "858-04-b9ea660398ba92f96b6e6e055faa595041bcc20d379380b70336445d12d52ab7.sqlite.pack",
+          "sha256": "b9ea660398ba92f96b6e6e055faa595041bcc20d379380b70336445d12d52ab7",
+          "packedBytes": 37636,
+          "bytes": 180224
+        },
+        {
+          "name": "Colonia",
+          "code": "05",
+          "file": "858-05-85243e9d94d7968cf57e065b480572c554c60db78ce49d7ec205cb71a892c2c4.sqlite.pack",
+          "sha256": "85243e9d94d7968cf57e065b480572c554c60db78ce49d7ec205cb71a892c2c4",
+          "packedBytes": 122299,
+          "bytes": 471040
+        },
+        {
+          "name": "Durazno",
+          "code": "06",
+          "file": "858-06-f5478ee9a189f6f3ec44cad864a721c09f9de96701762c00a95fc0876940412a.sqlite.pack",
+          "sha256": "f5478ee9a189f6f3ec44cad864a721c09f9de96701762c00a95fc0876940412a",
+          "packedBytes": 46174,
+          "bytes": 208896
+        },
+        {
+          "name": "Flores",
+          "code": "07",
+          "file": "858-07-71bc9477a276c4c9b99b66328af4040ba4a669075b81043957a6e60cfa13f24f.sqlite.pack",
+          "sha256": "71bc9477a276c4c9b99b66328af4040ba4a669075b81043957a6e60cfa13f24f",
+          "packedBytes": 11918,
+          "bytes": 94208
+        },
+        {
+          "name": "Florida",
+          "code": "08",
+          "file": "858-08-4ace88771264e84e584a645166a214cb9b9ff238e961da5e6c6534984515bb9f.sqlite.pack",
+          "sha256": "4ace88771264e84e584a645166a214cb9b9ff238e961da5e6c6534984515bb9f",
+          "packedBytes": 44957,
+          "bytes": 204800
+        },
+        {
+          "name": "Lavalleja",
+          "code": "09",
+          "file": "858-09-a8953e0616a379e9a33e699a9ccc88418db7e0c47276c9bb5f01abc95d3e1b2f.sqlite.pack",
+          "sha256": "a8953e0616a379e9a33e699a9ccc88418db7e0c47276c9bb5f01abc95d3e1b2f",
+          "packedBytes": 61446,
+          "bytes": 262144
+        },
+        {
+          "name": "Maldonado",
+          "code": "10",
+          "file": "858-10-20c186da4c6c6c6f1cd74255579cd1e11476475e5191f473e1841db8879f2f24.sqlite.pack",
+          "sha256": "20c186da4c6c6c6f1cd74255579cd1e11476475e5191f473e1841db8879f2f24",
+          "packedBytes": 155912,
+          "bytes": 589824
+        },
+        {
+          "name": "Paysandú",
+          "code": "11",
+          "file": "858-11-a576cbff363177a97a64b66df1d0091441bf42882357d72a9d3f4f0a99c5d804.sqlite.pack",
+          "sha256": "a576cbff363177a97a64b66df1d0091441bf42882357d72a9d3f4f0a99c5d804",
+          "packedBytes": 55997,
+          "bytes": 237568
+        },
+        {
+          "name": "Río Negro",
+          "code": "12",
+          "file": "858-12-51274da14aeceb8a8ab921c021de316eef068f0cf4ae1a5432b94372da63f25d.sqlite.pack",
+          "sha256": "51274da14aeceb8a8ab921c021de316eef068f0cf4ae1a5432b94372da63f25d",
+          "packedBytes": 34131,
+          "bytes": 167936
+        },
+        {
+          "name": "Rivera",
+          "code": "13",
+          "file": "858-13-e593f1c03be6c9922fb6b1dee8050a6ef792f230819555fb346476076f084fd3.sqlite.pack",
+          "sha256": "e593f1c03be6c9922fb6b1dee8050a6ef792f230819555fb346476076f084fd3",
+          "packedBytes": 47248,
+          "bytes": 208896
+        },
+        {
+          "name": "Rocha",
+          "code": "14",
+          "file": "858-14-4c94d2e7bd794d74eff9ba148b89cdc6bfccaefadf4dce4dae6304f6a92c3c36.sqlite.pack",
+          "sha256": "4c94d2e7bd794d74eff9ba148b89cdc6bfccaefadf4dce4dae6304f6a92c3c36",
+          "packedBytes": 95759,
+          "bytes": 380928
+        },
+        {
+          "name": "Salto",
+          "code": "15",
+          "file": "858-15-d9e09be5bfb86356289707ded2b281c2634edd631cef4b6394117e284d967d9c.sqlite.pack",
+          "sha256": "d9e09be5bfb86356289707ded2b281c2634edd631cef4b6394117e284d967d9c",
+          "packedBytes": 50783,
+          "bytes": 221184
+        },
+        {
+          "name": "San José",
+          "code": "16",
+          "file": "858-16-7ed347f0bde5e37bf857d90233e645c2881bb392e062e120404fcfb0335fe5d7.sqlite.pack",
+          "sha256": "7ed347f0bde5e37bf857d90233e645c2881bb392e062e120404fcfb0335fe5d7",
+          "packedBytes": 63060,
+          "bytes": 262144
+        },
+        {
+          "name": "Soriano",
+          "code": "17",
+          "file": "858-17-3a8752c476eb7fa8dbcae488816afe5b3a5eff19620d34634b59d12d06927c5a.sqlite.pack",
+          "sha256": "3a8752c476eb7fa8dbcae488816afe5b3a5eff19620d34634b59d12d06927c5a",
+          "packedBytes": 98241,
+          "bytes": 409600
+        },
+        {
+          "name": "Tacuarembó",
+          "code": "18",
+          "file": "858-18-82d4c7a7e2bff9420691ca76a0d78a939194d593dca445eddd1307b8ad9a285d.sqlite.pack",
+          "sha256": "82d4c7a7e2bff9420691ca76a0d78a939194d593dca445eddd1307b8ad9a285d",
+          "packedBytes": 76728,
+          "bytes": 307200
+        },
+        {
+          "name": "Treinta y Tres",
+          "code": "19",
+          "file": "858-19-00de511d5f91875025d73f5c7955cba6dfc24179ea7928374379e9612bd338ba.sqlite.pack",
+          "sha256": "00de511d5f91875025d73f5c7955cba6dfc24179ea7928374379e9612bd338ba",
+          "packedBytes": 35612,
+          "bytes": 167936
+        }
+      ]
+    },
+    {
+      "id": "152",
+      "name": "Chile",
+      "attribution": "Instituto Nacional de Estadísticas, Chile: Ciudades y Pueblos Censo 2017, adapted for Traqui as conservative regional city-detection packs (CC BY-SA 4.0). Statistical urban entities are not legal municipal limits. Parent map identities use geoBoundaries gbOpen; no INE endorsement is implied.",
+      "licenseUrl": "https://www.ine.gob.cl/terminos-de-uso-y-licencia-de-datos-abiertos",
+      "packs": [
+        {
+          "name": "De Tarapacá",
+          "code": "01",
+          "file": "152-01-4f78e12321e7df1d1144bb158248931790d6091235b6203cd0408fcb44b46753.sqlite.pack",
+          "sha256": "4f78e12321e7df1d1144bb158248931790d6091235b6203cd0408fcb44b46753",
+          "packedBytes": 259967,
+          "bytes": 827392
+        },
+        {
+          "name": "De Antofagasta",
+          "code": "02",
+          "file": "152-02-a1800f270bbd0155500e47593f77003e3ac122cc3cc2797cd38bf8a884c113a5.sqlite.pack",
+          "sha256": "a1800f270bbd0155500e47593f77003e3ac122cc3cc2797cd38bf8a884c113a5",
+          "packedBytes": 1115492,
+          "bytes": 3457024
+        },
+        {
+          "name": "De Atacama",
+          "code": "03",
+          "file": "152-03-19ec4ecbb137975f73dc8fcfbf7ebb2006485eaa3c43192de86a7895ec1f82fb.sqlite.pack",
+          "sha256": "19ec4ecbb137975f73dc8fcfbf7ebb2006485eaa3c43192de86a7895ec1f82fb",
+          "packedBytes": 269376,
+          "bytes": 843776
+        },
+        {
+          "name": "De Coquimbo",
+          "code": "04",
+          "file": "152-04-591b220f0383785ad89848819125de98c17a323f519ff70e51848cca23576b35.sqlite.pack",
+          "sha256": "591b220f0383785ad89848819125de98c17a323f519ff70e51848cca23576b35",
+          "packedBytes": 623877,
+          "bytes": 1855488
+        },
+        {
+          "name": "De Valparaíso",
+          "code": "05",
+          "file": "152-05-0dfacd5244354c27385b85eb524821720b3a2f7310e0a282f9be70d7b105bd50.sqlite.pack",
+          "sha256": "0dfacd5244354c27385b85eb524821720b3a2f7310e0a282f9be70d7b105bd50",
+          "packedBytes": 1883964,
+          "bytes": 5607424
+        },
+        {
+          "name": "Del Libertador General Bernardo O'Higgins",
+          "code": "06",
+          "file": "152-06-39f23fd63e6d9f4989a0de5cfdef3498fb8c4d48f6010d94ba02e3aaf154c6d3.sqlite.pack",
+          "sha256": "39f23fd63e6d9f4989a0de5cfdef3498fb8c4d48f6010d94ba02e3aaf154c6d3",
+          "packedBytes": 722690,
+          "bytes": 2113536
+        },
+        {
+          "name": "Del Maule",
+          "code": "07",
+          "file": "152-07-32304becbc097f08d5577be0f7d7c8502a0b48a8bd6e0399f59fdf3a963e16ad.sqlite.pack",
+          "sha256": "32304becbc097f08d5577be0f7d7c8502a0b48a8bd6e0399f59fdf3a963e16ad",
+          "packedBytes": 682324,
+          "bytes": 2007040
+        },
+        {
+          "name": "Del Biobío",
+          "code": "08",
+          "file": "152-08-f75cdec8a0f7ed71ff3e4c2befdaf7bbf4a1a4a3eaad5c0db00b26e91b3eddc8.sqlite.pack",
+          "sha256": "f75cdec8a0f7ed71ff3e4c2befdaf7bbf4a1a4a3eaad5c0db00b26e91b3eddc8",
+          "packedBytes": 1069425,
+          "bytes": 3166208
+        },
+        {
+          "name": "De La Araucanía",
+          "code": "09",
+          "file": "152-09-39d54cc32915e71e723ac5469a227e6b6ebb7e5a81b61a13fddb43aedab71c61.sqlite.pack",
+          "sha256": "39d54cc32915e71e723ac5469a227e6b6ebb7e5a81b61a13fddb43aedab71c61",
+          "packedBytes": 680640,
+          "bytes": 2035712
+        },
+        {
+          "name": "De Los Lagos",
+          "code": "10",
+          "file": "152-10-e2fd57a0964e363216ed6dec828efbbf0d00f99a077eb77c3dee39be3a423a9e.sqlite.pack",
+          "sha256": "e2fd57a0964e363216ed6dec828efbbf0d00f99a077eb77c3dee39be3a423a9e",
+          "packedBytes": 594096,
+          "bytes": 1777664
+        },
+        {
+          "name": "De Aysén Del General Carlos Ibáñez Del Cam",
+          "code": "11",
+          "file": "152-11-0a4844475d01a97de874af0fd33f6d79c2c38d0f5656a277454ca4927ee871c7.sqlite.pack",
+          "sha256": "0a4844475d01a97de874af0fd33f6d79c2c38d0f5656a277454ca4927ee871c7",
+          "packedBytes": 73614,
+          "bytes": 266240
+        },
+        {
+          "name": "De Magallanes Y De La Antártica Chilena",
+          "code": "12",
+          "file": "152-12-ae1788035881c528f871d2756fca55fc18a22ba351e8d12d2331a0ae11a0844d.sqlite.pack",
+          "sha256": "ae1788035881c528f871d2756fca55fc18a22ba351e8d12d2331a0ae11a0844d",
+          "packedBytes": 68412,
+          "bytes": 249856
+        },
+        {
+          "name": "Metropolitana De Santiago",
+          "code": "13",
+          "file": "152-13-3d5ef35520c9eef1891282ec863468fb252082053a1e3af9f7a7d112e81cef41.sqlite.pack",
+          "sha256": "3d5ef35520c9eef1891282ec863468fb252082053a1e3af9f7a7d112e81cef41",
+          "packedBytes": 1728514,
+          "bytes": 5054464
+        },
+        {
+          "name": "De Los Ríos",
+          "code": "14",
+          "file": "152-14-ab2b021b9260a2aa85e6a68903765852ad39418b05a506a1fb90efa01b746196.sqlite.pack",
+          "sha256": "ab2b021b9260a2aa85e6a68903765852ad39418b05a506a1fb90efa01b746196",
+          "packedBytes": 247124,
+          "bytes": 770048
+        },
+        {
+          "name": "De Arica Y Parinacota",
+          "code": "15",
+          "file": "152-15-995e86831eb1a17713386c5539fab4b4c313ae41d3eba16a6725707e4ffd03f5.sqlite.pack",
+          "sha256": "995e86831eb1a17713386c5539fab4b4c313ae41d3eba16a6725707e4ffd03f5",
+          "packedBytes": 75022,
+          "bytes": 270336
+        },
+        {
+          "name": "De Ñuble",
+          "code": "16",
+          "file": "152-16-fefb4a8789cb739b23ad61a374d0f97f0e5c7d5c0fa72228ce10e2cdc0bfa0b4.sqlite.pack",
+          "sha256": "fefb4a8789cb739b23ad61a374d0f97f0e5c7d5c0fa72228ce10e2cdc0bfa0b4",
+          "packedBytes": 359498,
+          "bytes": 1097728
+        }
+      ]
+    },
+    {
+      "id": "826",
+      "name": "United Kingdom",
+      "attribution": "Source: Office for National Statistics and Northern Ireland Statistics and Research Agency, licensed under the Open Government Licence v3.0. Contains OS data © Crown copyright and database right 2022. ONS December 2022 built-up areas and NISRA 2015 Settlement Development Limits, with 2021 Census populations; adapted for Traqui. Statistical settlement extents are not legal town limits.",
+      "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "packs": [
+        {
+          "name": "England",
+          "code": "01",
+          "file": "826-01-f6defd929f73824ac12e595df97e9938dce54198ba070932a33095f03df1561e.sqlite.pack",
+          "sha256": "f6defd929f73824ac12e595df97e9938dce54198ba070932a33095f03df1561e",
+          "packedBytes": 44063946,
+          "bytes": 117231616
+        },
+        {
+          "name": "Wales",
+          "code": "02",
+          "file": "826-02-297e2fbd337c773c671d0f1302aed66e4b710a2b1de85341cb9bfeaf38c4fc7d.sqlite.pack",
+          "sha256": "297e2fbd337c773c671d0f1302aed66e4b710a2b1de85341cb9bfeaf38c4fc7d",
+          "packedBytes": 3741694,
+          "bytes": 10010624
+        },
+        {
+          "name": "Northern Ireland",
+          "code": "03",
+          "file": "826-03-219876637fdd7edee241188943f9e8b3911b412ccc1e10d53c534145e26da68e.sqlite.pack",
+          "sha256": "219876637fdd7edee241188943f9e8b3911b412ccc1e10d53c534145e26da68e",
+          "packedBytes": 3038144,
+          "bytes": 8159232
+        }
+      ]
+    },
+    {
+      "id": "528",
+      "name": "Netherlands",
+      "attribution": "Source: Kadaster/PDOK, Basisregistratie Adressen en Gebouwen (BAG), designated woonplaats areas, 2026-10-03 snapshot; public-domain Dutch government data. Adapted for Traqui. A designated place area may include land beyond a built-up town. Parent map uses geoBoundaries gbOpen (CC BY 4.0).",
+      "licenseUrl": "https://data.overheid.nl/dataset/10491-bag",
+      "packs": [
+        {
+          "name": "Drenthe",
+          "code": "01",
+          "file": "528-01-029bb55db8b8e6365cc8242813c707b92f209df54b7276bbf301a73401579736.sqlite.pack",
+          "sha256": "029bb55db8b8e6365cc8242813c707b92f209df54b7276bbf301a73401579736",
+          "packedBytes": 1846020,
+          "bytes": 4931584
+        },
+        {
+          "name": "Flevoland",
+          "code": "02",
+          "file": "528-02-f98db53cd9656f236b41ea19eb24f28d363cc1797ffe488529338cdd489c4bfb.sqlite.pack",
+          "sha256": "f98db53cd9656f236b41ea19eb24f28d363cc1797ffe488529338cdd489c4bfb",
+          "packedBytes": 93576,
+          "bytes": 327680
+        },
+        {
+          "name": "Fryslân",
+          "code": "03",
+          "file": "528-03-54f1abd5537a1a7ac9a0014b38925529d904d7cdc597186ace2e4fd19ea02949.sqlite.pack",
+          "sha256": "54f1abd5537a1a7ac9a0014b38925529d904d7cdc597186ace2e4fd19ea02949",
+          "packedBytes": 4245567,
+          "bytes": 11218944
+        },
+        {
+          "name": "Gelderland",
+          "code": "04",
+          "file": "528-04-50d4db8b06638db4d87cb8c9b1a339060e6f2cc078b29cd2a376e25a48715de9.sqlite.pack",
+          "sha256": "50d4db8b06638db4d87cb8c9b1a339060e6f2cc078b29cd2a376e25a48715de9",
+          "packedBytes": 4061629,
+          "bytes": 10752000
+        },
+        {
+          "name": "Groningen",
+          "code": "05",
+          "file": "528-05-6384935f9595ef761ccdfa930b13f7e04c6c54e9b1eac9b169e80ee6964e61eb.sqlite.pack",
+          "sha256": "6384935f9595ef761ccdfa930b13f7e04c6c54e9b1eac9b169e80ee6964e61eb",
+          "packedBytes": 2090963,
+          "bytes": 5582848
+        },
+        {
+          "name": "Limburg",
+          "code": "06",
+          "file": "528-06-3920d20eca38578da3a856fa318548ad0abf6d984889ca829cfe00fcab4698eb.sqlite.pack",
+          "sha256": "3920d20eca38578da3a856fa318548ad0abf6d984889ca829cfe00fcab4698eb",
+          "packedBytes": 1786962,
+          "bytes": 4829184
+        },
+        {
+          "name": "Noord-Brabant",
+          "code": "07",
+          "file": "528-07-389b1a2b93d341de3ee98489b0bcef9a18740969effbd7b640663816c953a366.sqlite.pack",
+          "sha256": "389b1a2b93d341de3ee98489b0bcef9a18740969effbd7b640663816c953a366",
+          "packedBytes": 2841010,
+          "bytes": 7577600
+        },
+        {
+          "name": "Noord-Holland",
+          "code": "08",
+          "file": "528-08-2817358154da4377bafd783340e3f07ae97db98d0cc35fc731171a0fa7b76da2.sqlite.pack",
+          "sha256": "2817358154da4377bafd783340e3f07ae97db98d0cc35fc731171a0fa7b76da2",
+          "packedBytes": 2450440,
+          "bytes": 6533120
+        },
+        {
+          "name": "Overijssel",
+          "code": "09",
+          "file": "528-09-6fd513463cf92c9ecb64c346ee765d82d2c380cb0bf1c71be743dc2086e9d3e4.sqlite.pack",
+          "sha256": "6fd513463cf92c9ecb64c346ee765d82d2c380cb0bf1c71be743dc2086e9d3e4",
+          "packedBytes": 2612217,
+          "bytes": 6840320
+        },
+        {
+          "name": "Utrecht",
+          "code": "10",
+          "file": "528-10-096816fe7996190163e799d7d4df00c6e54e5069c6aa20d3e1342913b887b7b9.sqlite.pack",
+          "sha256": "096816fe7996190163e799d7d4df00c6e54e5069c6aa20d3e1342913b887b7b9",
+          "packedBytes": 1827139,
+          "bytes": 4788224
+        },
+        {
+          "name": "Zeeland",
+          "code": "11",
+          "file": "528-11-481e486af5f8d998a5d83b82068ae66796533c52e52292c1d877ebfd563e9c09.sqlite.pack",
+          "sha256": "481e486af5f8d998a5d83b82068ae66796533c52e52292c1d877ebfd563e9c09",
+          "packedBytes": 1230166,
+          "bytes": 3280896
+        },
+        {
+          "name": "Zuid-Holland",
+          "code": "12",
+          "file": "528-12-2fdf86bdcd0d16a5e4090b2de2c03193f72ed70c43eac897fbadb6f133724cd2.sqlite.pack",
+          "sha256": "2fdf86bdcd0d16a5e4090b2de2c03193f72ed70c43eac897fbadb6f133724cd2",
+          "packedBytes": 1990124,
+          "bytes": 5275648
+        }
+      ]
+    },
+    {
+      "id": "620",
+      "name": "Portugal",
+      "attribution": "Source: Instituto Nacional de Estatística (INE), Censos 2021 Lugares and Lugares por Freguesia; adapted for Traqui. Census named-settlement footprints are statistical extents, not legal city limits. Parent map uses geoBoundaries gbOpen (CC BY 4.0).",
+      "licenseUrl": "https://mapas.ine.pt/download/metadados/bgri.html",
+      "packs": [
+        {
+          "name": "Aveiro",
+          "code": "01",
+          "file": "620-01-98562998dafe21223b95298ca744cb8e2eaf68ca6d5f8024787b840cfdcaaf63.sqlite.pack",
+          "sha256": "98562998dafe21223b95298ca744cb8e2eaf68ca6d5f8024787b840cfdcaaf63",
+          "packedBytes": 4911133,
+          "bytes": 14417920
+        },
+        {
+          "name": "Beja",
+          "code": "02",
+          "file": "620-02-12efc2d032340dd102aa43cd7761532de1589467f34a5a104bfee4c601b5641a.sqlite.pack",
+          "sha256": "12efc2d032340dd102aa43cd7761532de1589467f34a5a104bfee4c601b5641a",
+          "packedBytes": 671095,
+          "bytes": 1957888
+        },
+        {
+          "name": "Braga",
+          "code": "03",
+          "file": "620-03-583fd9ba8fb44d8b560926cff4672d5925617dd5a9407804e85bbe0ddff48d7d.sqlite.pack",
+          "sha256": "583fd9ba8fb44d8b560926cff4672d5925617dd5a9407804e85bbe0ddff48d7d",
+          "packedBytes": 8073896,
+          "bytes": 24358912
+        },
+        {
+          "name": "Bragança",
+          "code": "04",
+          "file": "620-04-008fc048abe3921622f50292a601d7e4921d23cfe3e8bf1bab0a8bf14d69f89a.sqlite.pack",
+          "sha256": "008fc048abe3921622f50292a601d7e4921d23cfe3e8bf1bab0a8bf14d69f89a",
+          "packedBytes": 1480642,
+          "bytes": 4165632
+        },
+        {
+          "name": "Castelo Branco",
+          "code": "05",
+          "file": "620-05-379804ad07dd0041016f92df8d484712b3c46ff4d7c81aa3472ebcb4d38ba83b.sqlite.pack",
+          "sha256": "379804ad07dd0041016f92df8d484712b3c46ff4d7c81aa3472ebcb4d38ba83b",
+          "packedBytes": 2137126,
+          "bytes": 5984256
+        },
+        {
+          "name": "Coimbra",
+          "code": "06",
+          "file": "620-06-76e08347a60e85263b345cef3b5664d5ad4fac59015778eab07a99b0047438f2.sqlite.pack",
+          "sha256": "76e08347a60e85263b345cef3b5664d5ad4fac59015778eab07a99b0047438f2",
+          "packedBytes": 4151537,
+          "bytes": 11870208
+        },
+        {
+          "name": "Évora",
+          "code": "07",
+          "file": "620-07-b71e1620e4d2fd0c6f57d94f6d90a6935b1a713ac00e81e54230e00934a4759c.sqlite.pack",
+          "sha256": "b71e1620e4d2fd0c6f57d94f6d90a6935b1a713ac00e81e54230e00934a4759c",
+          "packedBytes": 464163,
+          "bytes": 1376256
+        },
+        {
+          "name": "Faro",
+          "code": "08",
+          "file": "620-08-dc76cc74f6d66a42874db5da068cae61da3e9cb7d4f246d5642714712dcdfeb5.sqlite.pack",
+          "sha256": "dc76cc74f6d66a42874db5da068cae61da3e9cb7d4f246d5642714712dcdfeb5",
+          "packedBytes": 5090401,
+          "bytes": 14090240
+        },
+        {
+          "name": "Guarda",
+          "code": "09",
+          "file": "620-09-04826f0d72e39055e9ca7a447343967b5203c94644955fec2c57a6d7b9ac6799.sqlite.pack",
+          "sha256": "04826f0d72e39055e9ca7a447343967b5203c94644955fec2c57a6d7b9ac6799",
+          "packedBytes": 1574723,
+          "bytes": 4460544
+        },
+        {
+          "name": "Leiria",
+          "code": "10",
+          "file": "620-10-4d8975a2e6bc161d5116a4964a760bfe3921ab891c55b0d167fa784a620ddbbe.sqlite.pack",
+          "sha256": "4d8975a2e6bc161d5116a4964a760bfe3921ab891c55b0d167fa784a620ddbbe",
+          "packedBytes": 6446578,
+          "bytes": 18280448
+        },
+        {
+          "name": "Lisboa",
+          "code": "11",
+          "file": "620-11-b98dc49ad5f4687f28b033ec426287b80bf1b14c8295d5edffc0942970e6e6a1.sqlite.pack",
+          "sha256": "b98dc49ad5f4687f28b033ec426287b80bf1b14c8295d5edffc0942970e6e6a1",
+          "packedBytes": 5129413,
+          "bytes": 14274560
+        },
+        {
+          "name": "Portalegre",
+          "code": "12",
+          "file": "620-12-10e79bfce8f057f2bc3cc8bfe6ef032b032cf496a595b2b4303aa219ce0959c0.sqlite.pack",
+          "sha256": "10e79bfce8f057f2bc3cc8bfe6ef032b032cf496a595b2b4303aa219ce0959c0",
+          "packedBytes": 917641,
+          "bytes": 2564096
+        },
+        {
+          "name": "Porto",
+          "code": "13",
+          "file": "620-13-caca1aa6bf5b5e33ff9fc3dfdc49ce3d20935246d52b8557030a7ea5cb1a957a.sqlite.pack",
+          "sha256": "caca1aa6bf5b5e33ff9fc3dfdc49ce3d20935246d52b8557030a7ea5cb1a957a",
+          "packedBytes": 6877797,
+          "bytes": 20299776
+        },
+        {
+          "name": "Santarém",
+          "code": "14",
+          "file": "620-14-e4e5003a5a4076be55160add75a3fadeea797c5d7f27f254476f0f057a2ef9b0.sqlite.pack",
+          "sha256": "e4e5003a5a4076be55160add75a3fadeea797c5d7f27f254476f0f057a2ef9b0",
+          "packedBytes": 5241141,
+          "bytes": 14639104
+        },
+        {
+          "name": "Setúbal",
+          "code": "15",
+          "file": "620-15-3867238e850c5276400784f767fe736a67cd26eb14ff806c44d5af0591bd2d74.sqlite.pack",
+          "sha256": "3867238e850c5276400784f767fe736a67cd26eb14ff806c44d5af0591bd2d74",
+          "packedBytes": 1998768,
+          "bytes": 5603328
+        },
+        {
+          "name": "Viana do Castelo",
+          "code": "16",
+          "file": "620-16-aa12329ab544d76851123965fabac5a2e5a0c61d4a493cfc51dfe4b4d4236d87.sqlite.pack",
+          "sha256": "aa12329ab544d76851123965fabac5a2e5a0c61d4a493cfc51dfe4b4d4236d87",
+          "packedBytes": 4625095,
+          "bytes": 14303232
+        },
+        {
+          "name": "Vila Real",
+          "code": "17",
+          "file": "620-17-c3f801b59847f47d858cc0d04175925311e6c86c586faef8ca514dcde68747dc.sqlite.pack",
+          "sha256": "c3f801b59847f47d858cc0d04175925311e6c86c586faef8ca514dcde68747dc",
+          "packedBytes": 18341199,
+          "bytes": 54837248
+        },
+        {
+          "name": "Viseu",
+          "code": "18",
+          "file": "620-18-727a11e0752b8c34f87d8c2f6f4ba3b65f793e9dbdf9f9a677bef0e61a36dbf3.sqlite.pack",
+          "sha256": "727a11e0752b8c34f87d8c2f6f4ba3b65f793e9dbdf9f9a677bef0e61a36dbf3",
+          "packedBytes": 4944712,
+          "bytes": 14364672
+        },
+        {
+          "name": "Madeira",
+          "code": "19",
+          "file": "620-19-b81675c7311528087f37210ae41d5a81ba59e395fc4559c0eb2be224b9defe7f.sqlite.pack",
+          "sha256": "b81675c7311528087f37210ae41d5a81ba59e395fc4559c0eb2be224b9defe7f",
+          "packedBytes": 2577295,
+          "bytes": 7602176
+        },
+        {
+          "name": "Açores",
+          "code": "20",
+          "file": "620-20-a26819b5b88aa28a418f631e379b9a3939c535274c720b6c2d8235c3291034ac.sqlite.pack",
+          "sha256": "a26819b5b88aa28a418f631e379b9a3939c535274c720b6c2d8235c3291034ac",
+          "packedBytes": 2307399,
+          "bytes": 6516736
+        }
+      ]
+    },
+    {
+      "id": "578",
+      "name": "Norway",
+      "attribution": "Contains Tettsteder 2025 data distributed by Statistics Norway (SSB) under the Norwegian Licence for Open Government Data (NLOD) 1.0. Source: https://kartkatalog.geonorge.no/metadata/0cebdeba-5cd2-4642-a485-6d7b09159337. Traqui converted coordinates, linked map parents and withheld uncertain settlements. Statistical built-up extents are not legal city limits. Parent map uses geoBoundaries gbOpen (CC BY 4.0).",
+      "licenseUrl": "https://data.norge.no/nlod/en/1.0",
+      "packs": [
+        {
+          "name": "Oslo",
+          "code": "03",
+          "file": "578-03-15b6de448a4e58932188908009d64d63a7fce042c19b82f4b62570d79e82781d.sqlite.pack",
+          "sha256": "15b6de448a4e58932188908009d64d63a7fce042c19b82f4b62570d79e82781d",
+          "packedBytes": 15896,
+          "bytes": 102400
+        },
+        {
+          "name": "Rogaland",
+          "code": "11",
+          "file": "578-11-d190ba7abc861c1070100e508b27e72a2365c1fe7dbeabd730b5aa846284202f.sqlite.pack",
+          "sha256": "d190ba7abc861c1070100e508b27e72a2365c1fe7dbeabd730b5aa846284202f",
+          "packedBytes": 899038,
+          "bytes": 2392064
+        },
+        {
+          "name": "Møre og Romsdal",
+          "code": "15",
+          "file": "578-15-0174636edd552f1e3b09eea312429b34a8067642fe0923a934be74b4573f6c3f.sqlite.pack",
+          "sha256": "0174636edd552f1e3b09eea312429b34a8067642fe0923a934be74b4573f6c3f",
+          "packedBytes": 1692403,
+          "bytes": 4427776
+        },
+        {
+          "name": "Nordland",
+          "code": "18",
+          "file": "578-18-05152b3910b8445ec07cca2e20b532479be4819a095cdbb8071fb6060ee374e3.sqlite.pack",
+          "sha256": "05152b3910b8445ec07cca2e20b532479be4819a095cdbb8071fb6060ee374e3",
+          "packedBytes": 1278376,
+          "bytes": 3428352
+        },
+        {
+          "name": "Viken",
+          "code": "30",
+          "file": "578-30-fa9c8e60bb0e82e15ab023ea6c77f9150fae1dbfb2b5fc0aec6e7f1972aa76dc.sqlite.pack",
+          "sha256": "fa9c8e60bb0e82e15ab023ea6c77f9150fae1dbfb2b5fc0aec6e7f1972aa76dc",
+          "packedBytes": 4222236,
+          "bytes": 11100160
+        },
+        {
+          "name": "Innlandet",
+          "code": "34",
+          "file": "578-34-e2ff1475a161a77f88f4170f71d292c41ad6c6b47fe7909e9e9108c095949bbc.sqlite.pack",
+          "sha256": "e2ff1475a161a77f88f4170f71d292c41ad6c6b47fe7909e9e9108c095949bbc",
+          "packedBytes": 2567544,
+          "bytes": 6737920
+        },
+        {
+          "name": "Vestfold og Telemark",
+          "code": "38",
+          "file": "578-38-91e386aa8479b9d2b6b37989876c862b8c800cd66773ed0c4f5474dca6467608.sqlite.pack",
+          "sha256": "91e386aa8479b9d2b6b37989876c862b8c800cd66773ed0c4f5474dca6467608",
+          "packedBytes": 1730499,
+          "bytes": 4567040
+        },
+        {
+          "name": "Agder",
+          "code": "42",
+          "file": "578-42-b5fbcf34d69c127527c0d851dcdadec2538ef283aa9a978c1c67525fd968378f.sqlite.pack",
+          "sha256": "b5fbcf34d69c127527c0d851dcdadec2538ef283aa9a978c1c67525fd968378f",
+          "packedBytes": 1554104,
+          "bytes": 4083712
+        },
+        {
+          "name": "Vestland",
+          "code": "46",
+          "file": "578-46-6ca7e883df85e7f89fa27868104d227af29ef640777d0d18cce97fac4f1535d6.sqlite.pack",
+          "sha256": "6ca7e883df85e7f89fa27868104d227af29ef640777d0d18cce97fac4f1535d6",
+          "packedBytes": 3688404,
+          "bytes": 9629696
+        },
+        {
+          "name": "Trøndelag",
+          "code": "50",
+          "file": "578-50-71eee31cb96073b43cce49a22c896495e48e3f47e85f10e8cd37e438f61447e3.sqlite.pack",
+          "sha256": "71eee31cb96073b43cce49a22c896495e48e3f47e85f10e8cd37e438f61447e3",
+          "packedBytes": 2273421,
+          "bytes": 5992448
+        },
+        {
+          "name": "Troms og Finnmark",
+          "code": "54",
+          "file": "578-54-bc973cf65a1f573411337b5a70c8b2a7bb461c5ca890e79398234e66f6381cec.sqlite.pack",
+          "sha256": "bc973cf65a1f573411337b5a70c8b2a7bb461c5ca890e79398234e66f6381cec",
+          "packedBytes": 1572535,
+          "bytes": 4194304
+        }
+      ]
+    }
+  ]
+}
